@@ -26,3 +26,7 @@ Kemudian tambahkan tag < link> untuk merujuk file css yang sudah dibuat pada bag
 < /head> <p>
 Selanjutnya refresh kembali browser untuk melihat perubahannya.
 ![image](/screenshot/ss7.png)
+### 5. Menambahkan CSS Selector
+Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file
+style_eksternal.css, tambahkan kode berikut.
+![image](/screenshot/ss8.png)
