@@ -12,7 +12,7 @@ Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk me
 hasilnya.
 ![image](/screenshot/ss4.png)
 ### 3. Menambahkan Inline CSS
-Kemudian tambahkan deklarasi inline CSS pada tag < p> seperti berikut.
+Kemudian tambahkan deklarasi inline CSS pada tag < p> seperti berikut. <p>
 < p style="text-align: center; color: #ccd8e4;"> <p>
 Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 ![image](/screenshot/ss5.png)
@@ -20,7 +20,7 @@ Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut.
 ![image](/screenshot/ss6.png) <p>
 Kemudian tambahkan tag < link> untuk merujuk file css yang sudah dibuat pada bagian < head> <p>
-< head>
+< head> <p>
 <! -- menyisipkan css eksternal -->
 < link rel="stylesheet" href="style_eksternal.css" type="text/css"> <p>
 < /head> <p>
