@@ -29,6 +29,6 @@ Selanjutnya refresh kembali browser untuk melihat perubahannya.
 ### 5. Menambahkan CSS Selector
 Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file
 style_eksternal.css, tambahkan kode berikut.
-![image](/screenshot/ss8.png)
+![image](/screenshot/ss8.png) <p>
 Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
 ![image](/screenshot/ss9.png)
