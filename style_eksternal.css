@@ -1,0 +1,38 @@
+nav {
+    background: #ff00dd;
+    color:rgb(0, 0, 0);
+    padding: 10px;
+    }
+    nav a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding:10px 20px;
+    }
+    nav .active,
+    nav a:hover {
+    background: #ff0000;
+    }
+    /* ID Selector */
+#intro {
+    background: #00b3ff;
+    border: 1px solid #ff0000;
+    min-height: 100px;
+    padding: 10px;
+    }
+    #intro h1 {
+    text-align: left;
+    border: 0;
+    color: rgb(0, 0, 0);
+    }
+    /* Class Selector */
+    .button {
+    padding: 15px 20px;
+    background: #ff0080;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+    }
+    .btn-primary {
+    background: #ff00aa;
+    }
